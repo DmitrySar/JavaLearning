@@ -1,4 +1,3 @@
-# JavaLearning
--lessons1
-princips OOP
-write program Calculator
+# Test
+- write function get index max element from array
+- write test
